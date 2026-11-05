@@ -1,0 +1,1304 @@
+[
+  {
+    "invoice_id": "201810-00000",
+    "invoice_date": "2018-10-01",
+    "country": "US",
+    "amount": 609.03,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00001",
+    "invoice_date": "2018-10-01",
+    "country": "GB",
+    "amount": 274.75,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00002",
+    "invoice_date": "2018-10-01",
+    "country": "DE",
+    "amount": 255.47,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00003",
+    "invoice_date": "2018-10-01",
+    "country": "FR",
+    "amount": 210.96,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00004",
+    "invoice_date": "2018-10-01",
+    "country": "AU",
+    "amount": 202.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00005",
+    "invoice_date": "2018-10-01",
+    "country": "CA",
+    "amount": 159.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00006",
+    "invoice_date": "2018-10-02",
+    "country": "US",
+    "amount": 608.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00007",
+    "invoice_date": "2018-10-02",
+    "country": "GB",
+    "amount": 303.77,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00008",
+    "invoice_date": "2018-10-02",
+    "country": "DE",
+    "amount": 287.32,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00009",
+    "invoice_date": "2018-10-02",
+    "country": "FR",
+    "amount": 200.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00010",
+    "invoice_date": "2018-10-02",
+    "country": "AU",
+    "amount": 180.01,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00011",
+    "invoice_date": "2018-10-02",
+    "country": "CA",
+    "amount": 169.38,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00012",
+    "invoice_date": "2018-10-03",
+    "country": "US",
+    "amount": 480.6,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00013",
+    "invoice_date": "2018-10-03",
+    "country": "GB",
+    "amount": 290.36,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00014",
+    "invoice_date": "2018-10-03",
+    "country": "DE",
+    "amount": 218.54,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00015",
+    "invoice_date": "2018-10-03",
+    "country": "FR",
+    "amount": 202.44,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00016",
+    "invoice_date": "2018-10-03",
+    "country": "AU",
+    "amount": 169.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00017",
+    "invoice_date": "2018-10-03",
+    "country": "CA",
+    "amount": 154.44,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00018",
+    "invoice_date": "2018-10-04",
+    "country": "US",
+    "amount": 585.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00019",
+    "invoice_date": "2018-10-04",
+    "country": "GB",
+    "amount": 305.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00020",
+    "invoice_date": "2018-10-04",
+    "country": "DE",
+    "amount": 218.76,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00021",
+    "invoice_date": "2018-10-04",
+    "country": "FR",
+    "amount": 158.55,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00022",
+    "invoice_date": "2018-10-04",
+    "country": "AU",
+    "amount": 189.6,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00023",
+    "invoice_date": "2018-10-04",
+    "country": "CA",
+    "amount": 168.57,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00024",
+    "invoice_date": "2018-10-05",
+    "country": "US",
+    "amount": 524.77,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00025",
+    "invoice_date": "2018-10-05",
+    "country": "GB",
+    "amount": 284.73,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00026",
+    "invoice_date": "2018-10-05",
+    "country": "DE",
+    "amount": 184.04,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00027",
+    "invoice_date": "2018-10-05",
+    "country": "FR",
+    "amount": 163.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00028",
+    "invoice_date": "2018-10-05",
+    "country": "AU",
+    "amount": 167.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00029",
+    "invoice_date": "2018-10-05",
+    "country": "CA",
+    "amount": 148.95,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00030",
+    "invoice_date": "2018-10-06",
+    "country": "US",
+    "amount": 505.75,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00031",
+    "invoice_date": "2018-10-06",
+    "country": "GB",
+    "amount": 263.56,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00032",
+    "invoice_date": "2018-10-06",
+    "country": "DE",
+    "amount": 289.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00033",
+    "invoice_date": "2018-10-06",
+    "country": "FR",
+    "amount": 196.25,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00034",
+    "invoice_date": "2018-10-06",
+    "country": "AU",
+    "amount": 183.12,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00035",
+    "invoice_date": "2018-10-06",
+    "country": "CA",
+    "amount": 161.76,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00036",
+    "invoice_date": "2018-10-07",
+    "country": "US",
+    "amount": 570.5,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00037",
+    "invoice_date": "2018-10-07",
+    "country": "GB",
+    "amount": 287.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00038",
+    "invoice_date": "2018-10-07",
+    "country": "DE",
+    "amount": 274.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00039",
+    "invoice_date": "2018-10-07",
+    "country": "FR",
+    "amount": 167.93,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00040",
+    "invoice_date": "2018-10-07",
+    "country": "AU",
+    "amount": 196.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00041",
+    "invoice_date": "2018-10-07",
+    "country": "CA",
+    "amount": 156.68,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00042",
+    "invoice_date": "2018-10-08",
+    "country": "US",
+    "amount": 619.72,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00043",
+    "invoice_date": "2018-10-08",
+    "country": "GB",
+    "amount": 343.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00044",
+    "invoice_date": "2018-10-08",
+    "country": "DE",
+    "amount": 260.75,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00045",
+    "invoice_date": "2018-10-08",
+    "country": "FR",
+    "amount": 215.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00046",
+    "invoice_date": "2018-10-08",
+    "country": "AU",
+    "amount": 209.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00047",
+    "invoice_date": "2018-10-08",
+    "country": "CA",
+    "amount": 143.85,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00048",
+    "invoice_date": "2018-10-09",
+    "country": "US",
+    "amount": 516.54,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00049",
+    "invoice_date": "2018-10-09",
+    "country": "GB",
+    "amount": 283.96,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00050",
+    "invoice_date": "2018-10-09",
+    "country": "DE",
+    "amount": 252.32,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00051",
+    "invoice_date": "2018-10-09",
+    "country": "FR",
+    "amount": 195.59,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00052",
+    "invoice_date": "2018-10-09",
+    "country": "AU",
+    "amount": 203.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00053",
+    "invoice_date": "2018-10-09",
+    "country": "CA",
+    "amount": 136.48,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00054",
+    "invoice_date": "2018-10-10",
+    "country": "US",
+    "amount": 531.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00055",
+    "invoice_date": "2018-10-10",
+    "country": "GB",
+    "amount": 264.5,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00056",
+    "invoice_date": "2018-10-10",
+    "country": "DE",
+    "amount": 247.69,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00057",
+    "invoice_date": "2018-10-10",
+    "country": "FR",
+    "amount": 186.52,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00058",
+    "invoice_date": "2018-10-10",
+    "country": "AU",
+    "amount": 181.72,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00059",
+    "invoice_date": "2018-10-10",
+    "country": "CA",
+    "amount": 149.26,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00060",
+    "invoice_date": "2018-10-11",
+    "country": "US",
+    "amount": 544.87,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00061",
+    "invoice_date": "2018-10-11",
+    "country": "GB",
+    "amount": 309.52,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00062",
+    "invoice_date": "2018-10-11",
+    "country": "DE",
+    "amount": 216.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00063",
+    "invoice_date": "2018-10-11",
+    "country": "FR",
+    "amount": 179.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00064",
+    "invoice_date": "2018-10-11",
+    "country": "AU",
+    "amount": 176.44,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00065",
+    "invoice_date": "2018-10-11",
+    "country": "CA",
+    "amount": 145.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00066",
+    "invoice_date": "2018-10-12",
+    "country": "US",
+    "amount": 461.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00067",
+    "invoice_date": "2018-10-12",
+    "country": "GB",
+    "amount": 240.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00068",
+    "invoice_date": "2018-10-12",
+    "country": "DE",
+    "amount": 178.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00069",
+    "invoice_date": "2018-10-12",
+    "country": "FR",
+    "amount": 119.61,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00070",
+    "invoice_date": "2018-10-12",
+    "country": "AU",
+    "amount": 147.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00071",
+    "invoice_date": "2018-10-12",
+    "country": "CA",
+    "amount": 130.48,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00072",
+    "invoice_date": "2018-10-13",
+    "country": "US",
+    "amount": 521.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00073",
+    "invoice_date": "2018-10-13",
+    "country": "GB",
+    "amount": 317.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00074",
+    "invoice_date": "2018-10-13",
+    "country": "DE",
+    "amount": 279.17,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00075",
+    "invoice_date": "2018-10-13",
+    "country": "FR",
+    "amount": 198.26,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00076",
+    "invoice_date": "2018-10-13",
+    "country": "AU",
+    "amount": 185.77,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00077",
+    "invoice_date": "2018-10-13",
+    "country": "CA",
+    "amount": 144.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00078",
+    "invoice_date": "2018-10-14",
+    "country": "US",
+    "amount": 651.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00079",
+    "invoice_date": "2018-10-14",
+    "country": "GB",
+    "amount": 301.0,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00080",
+    "invoice_date": "2018-10-14",
+    "country": "DE",
+    "amount": 233.16,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00081",
+    "invoice_date": "2018-10-14",
+    "country": "FR",
+    "amount": 207.17,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00082",
+    "invoice_date": "2018-10-14",
+    "country": "AU",
+    "amount": 157.79,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00083",
+    "invoice_date": "2018-10-14",
+    "country": "CA",
+    "amount": 169.6,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00084",
+    "invoice_date": "2018-10-15",
+    "country": "US",
+    "amount": 615.1,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00085",
+    "invoice_date": "2018-10-15",
+    "country": "GB",
+    "amount": 322.68,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00086",
+    "invoice_date": "2018-10-15",
+    "country": "DE",
+    "amount": 284.94,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00087",
+    "invoice_date": "2018-10-15",
+    "country": "FR",
+    "amount": 194.86,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00088",
+    "invoice_date": "2018-10-15",
+    "country": "AU",
+    "amount": 191.01,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00089",
+    "invoice_date": "2018-10-15",
+    "country": "CA",
+    "amount": 178.91,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00090",
+    "invoice_date": "2018-10-16",
+    "country": "US",
+    "amount": 492.24,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00091",
+    "invoice_date": "2018-10-16",
+    "country": "GB",
+    "amount": 323.33,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00092",
+    "invoice_date": "2018-10-16",
+    "country": "DE",
+    "amount": 278.86,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00093",
+    "invoice_date": "2018-10-16",
+    "country": "FR",
+    "amount": 180.58,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00094",
+    "invoice_date": "2018-10-16",
+    "country": "AU",
+    "amount": 196.39,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00095",
+    "invoice_date": "2018-10-16",
+    "country": "CA",
+    "amount": 159.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00096",
+    "invoice_date": "2018-10-17",
+    "country": "US",
+    "amount": 569.99,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00097",
+    "invoice_date": "2018-10-17",
+    "country": "GB",
+    "amount": 264.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00098",
+    "invoice_date": "2018-10-17",
+    "country": "DE",
+    "amount": 260.6,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00099",
+    "invoice_date": "2018-10-17",
+    "country": "FR",
+    "amount": 187.92,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00100",
+    "invoice_date": "2018-10-17",
+    "country": "AU",
+    "amount": 172.58,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00101",
+    "invoice_date": "2018-10-17",
+    "country": "CA",
+    "amount": 126.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00102",
+    "invoice_date": "2018-10-18",
+    "country": "US",
+    "amount": 593.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00103",
+    "invoice_date": "2018-10-18",
+    "country": "GB",
+    "amount": 304.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00104",
+    "invoice_date": "2018-10-18",
+    "country": "DE",
+    "amount": 243.03,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00105",
+    "invoice_date": "2018-10-18",
+    "country": "FR",
+    "amount": 166.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00106",
+    "invoice_date": "2018-10-18",
+    "country": "AU",
+    "amount": 185.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00107",
+    "invoice_date": "2018-10-18",
+    "country": "CA",
+    "amount": 136.54,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00108",
+    "invoice_date": "2018-10-19",
+    "country": "US",
+    "amount": 539.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00109",
+    "invoice_date": "2018-10-19",
+    "country": "GB",
+    "amount": 246.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00110",
+    "invoice_date": "2018-10-19",
+    "country": "DE",
+    "amount": 285.14,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00111",
+    "invoice_date": "2018-10-19",
+    "country": "FR",
+    "amount": 181.16,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00112",
+    "invoice_date": "2018-10-19",
+    "country": "AU",
+    "amount": 169.66,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00113",
+    "invoice_date": "2018-10-19",
+    "country": "CA",
+    "amount": 161.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00114",
+    "invoice_date": "2018-10-20",
+    "country": "US",
+    "amount": 497.52,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00115",
+    "invoice_date": "2018-10-20",
+    "country": "GB",
+    "amount": 327.33,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00116",
+    "invoice_date": "2018-10-20",
+    "country": "DE",
+    "amount": 247.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00117",
+    "invoice_date": "2018-10-20",
+    "country": "FR",
+    "amount": 184.98,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00118",
+    "invoice_date": "2018-10-20",
+    "country": "AU",
+    "amount": 185.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00119",
+    "invoice_date": "2018-10-20",
+    "country": "CA",
+    "amount": 152.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00120",
+    "invoice_date": "2018-10-21",
+    "country": "US",
+    "amount": 639.18,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00121",
+    "invoice_date": "2018-10-21",
+    "country": "GB",
+    "amount": 321.98,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00122",
+    "invoice_date": "2018-10-21",
+    "country": "DE",
+    "amount": 270.14,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00123",
+    "invoice_date": "2018-10-21",
+    "country": "FR",
+    "amount": 232.96,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00124",
+    "invoice_date": "2018-10-21",
+    "country": "AU",
+    "amount": 177.06,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00125",
+    "invoice_date": "2018-10-21",
+    "country": "CA",
+    "amount": 177.46,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00126",
+    "invoice_date": "2018-10-22",
+    "country": "US",
+    "amount": 593.3,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00127",
+    "invoice_date": "2018-10-22",
+    "country": "GB",
+    "amount": 384.05,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00128",
+    "invoice_date": "2018-10-22",
+    "country": "DE",
+    "amount": 328.18,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00129",
+    "invoice_date": "2018-10-22",
+    "country": "FR",
+    "amount": 211.06,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00130",
+    "invoice_date": "2018-10-22",
+    "country": "AU",
+    "amount": 237.75,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00131",
+    "invoice_date": "2018-10-22",
+    "country": "CA",
+    "amount": 183.69,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00132",
+    "invoice_date": "2018-10-23",
+    "country": "US",
+    "amount": 750.63,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00133",
+    "invoice_date": "2018-10-23",
+    "country": "GB",
+    "amount": 264.49,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00134",
+    "invoice_date": "2018-10-23",
+    "country": "DE",
+    "amount": 287.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00135",
+    "invoice_date": "2018-10-23",
+    "country": "FR",
+    "amount": 200.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00136",
+    "invoice_date": "2018-10-23",
+    "country": "AU",
+    "amount": 200.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00137",
+    "invoice_date": "2018-10-23",
+    "country": "CA",
+    "amount": 147.27,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00138",
+    "invoice_date": "2018-10-24",
+    "country": "US",
+    "amount": 595.63,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00139",
+    "invoice_date": "2018-10-24",
+    "country": "GB",
+    "amount": 248.4,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00140",
+    "invoice_date": "2018-10-24",
+    "country": "DE",
+    "amount": 246.05,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00141",
+    "invoice_date": "2018-10-24",
+    "country": "FR",
+    "amount": 174.44,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00142",
+    "invoice_date": "2018-10-24",
+    "country": "AU",
+    "amount": 165.93,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00143",
+    "invoice_date": "2018-10-24",
+    "country": "CA",
+    "amount": 140.57,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00144",
+    "invoice_date": "2018-10-25",
+    "country": "US",
+    "amount": 450.43,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00145",
+    "invoice_date": "2018-10-25",
+    "country": "GB",
+    "amount": 287.39,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00146",
+    "invoice_date": "2018-10-25",
+    "country": "DE",
+    "amount": 253.05,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00147",
+    "invoice_date": "2018-10-25",
+    "country": "FR",
+    "amount": 178.3,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00148",
+    "invoice_date": "2018-10-25",
+    "country": "AU",
+    "amount": 154.99,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00149",
+    "invoice_date": "2018-10-25",
+    "country": "CA",
+    "amount": 136.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00150",
+    "invoice_date": "2018-10-26",
+    "country": "US",
+    "amount": 434.78,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00151",
+    "invoice_date": "2018-10-26",
+    "country": "GB",
+    "amount": 325.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00152",
+    "invoice_date": "2018-10-26",
+    "country": "DE",
+    "amount": 244.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00153",
+    "invoice_date": "2018-10-26",
+    "country": "FR",
+    "amount": 185.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00154",
+    "invoice_date": "2018-10-26",
+    "country": "AU",
+    "amount": 172.94,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00155",
+    "invoice_date": "2018-10-26",
+    "country": "CA",
+    "amount": 115.93,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00156",
+    "invoice_date": "2018-10-27",
+    "country": "US",
+    "amount": 474.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00157",
+    "invoice_date": "2018-10-27",
+    "country": "GB",
+    "amount": 304.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00158",
+    "invoice_date": "2018-10-27",
+    "country": "DE",
+    "amount": 254.72,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00159",
+    "invoice_date": "2018-10-27",
+    "country": "FR",
+    "amount": 200.98,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00160",
+    "invoice_date": "2018-10-27",
+    "country": "AU",
+    "amount": 166.93,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00161",
+    "invoice_date": "2018-10-27",
+    "country": "CA",
+    "amount": 144.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00162",
+    "invoice_date": "2018-10-28",
+    "country": "US",
+    "amount": 604.94,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00163",
+    "invoice_date": "2018-10-28",
+    "country": "GB",
+    "amount": 338.51,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00164",
+    "invoice_date": "2018-10-28",
+    "country": "DE",
+    "amount": 291.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00165",
+    "invoice_date": "2018-10-28",
+    "country": "FR",
+    "amount": 192.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00166",
+    "invoice_date": "2018-10-28",
+    "country": "AU",
+    "amount": 170.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00167",
+    "invoice_date": "2018-10-28",
+    "country": "CA",
+    "amount": 147.63,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00168",
+    "invoice_date": "2018-10-29",
+    "country": "US",
+    "amount": 560.56,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00169",
+    "invoice_date": "2018-10-29",
+    "country": "GB",
+    "amount": 364.86,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00170",
+    "invoice_date": "2018-10-29",
+    "country": "DE",
+    "amount": 300.62,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00171",
+    "invoice_date": "2018-10-29",
+    "country": "FR",
+    "amount": 218.99,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00172",
+    "invoice_date": "2018-10-29",
+    "country": "AU",
+    "amount": 202.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00173",
+    "invoice_date": "2018-10-29",
+    "country": "CA",
+    "amount": 144.45,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00174",
+    "invoice_date": "2018-10-30",
+    "country": "US",
+    "amount": 635.86,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00175",
+    "invoice_date": "2018-10-30",
+    "country": "GB",
+    "amount": 288.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00176",
+    "invoice_date": "2018-10-30",
+    "country": "DE",
+    "amount": 350.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00177",
+    "invoice_date": "2018-10-30",
+    "country": "FR",
+    "amount": 210.45,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00178",
+    "invoice_date": "2018-10-30",
+    "country": "AU",
+    "amount": 201.39,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00179",
+    "invoice_date": "2018-10-30",
+    "country": "CA",
+    "amount": 180.68,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00180",
+    "invoice_date": "2018-10-31",
+    "country": "US",
+    "amount": 538.24,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00181",
+    "invoice_date": "2018-10-31",
+    "country": "GB",
+    "amount": 281.11,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00182",
+    "invoice_date": "2018-10-31",
+    "country": "DE",
+    "amount": 281.52,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00183",
+    "invoice_date": "2018-10-31",
+    "country": "FR",
+    "amount": 190.31,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00184",
+    "invoice_date": "2018-10-31",
+    "country": "AU",
+    "amount": 172.65,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201810-00185",
+    "invoice_date": "2018-10-31",
+    "country": "CA",
+    "amount": 138.33,
+    "currency": "USD"
+  }
+]

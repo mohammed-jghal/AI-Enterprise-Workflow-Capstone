@@ -1,0 +1,1178 @@
+[
+  {
+    "invoice_id": "201902-00000",
+    "invoice_date": "2019-02-01",
+    "country": "US",
+    "amount": 742.39,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00001",
+    "invoice_date": "2019-02-01",
+    "country": "GB",
+    "amount": 319.87,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00002",
+    "invoice_date": "2019-02-01",
+    "country": "DE",
+    "amount": 309.38,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00003",
+    "invoice_date": "2019-02-01",
+    "country": "FR",
+    "amount": 223.28,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00004",
+    "invoice_date": "2019-02-01",
+    "country": "AU",
+    "amount": 216.62,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00005",
+    "invoice_date": "2019-02-01",
+    "country": "CA",
+    "amount": 182.24,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00006",
+    "invoice_date": "2019-02-02",
+    "country": "US",
+    "amount": 715.48,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00007",
+    "invoice_date": "2019-02-02",
+    "country": "GB",
+    "amount": 373.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00008",
+    "invoice_date": "2019-02-02",
+    "country": "DE",
+    "amount": 377.43,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00009",
+    "invoice_date": "2019-02-02",
+    "country": "FR",
+    "amount": 232.94,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00010",
+    "invoice_date": "2019-02-02",
+    "country": "AU",
+    "amount": 228.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00011",
+    "invoice_date": "2019-02-02",
+    "country": "CA",
+    "amount": 187.65,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00012",
+    "invoice_date": "2019-02-03",
+    "country": "US",
+    "amount": 777.48,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00013",
+    "invoice_date": "2019-02-03",
+    "country": "GB",
+    "amount": 367.89,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00014",
+    "invoice_date": "2019-02-03",
+    "country": "DE",
+    "amount": 405.5,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00015",
+    "invoice_date": "2019-02-03",
+    "country": "FR",
+    "amount": 258.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00016",
+    "invoice_date": "2019-02-03",
+    "country": "AU",
+    "amount": 223.37,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00017",
+    "invoice_date": "2019-02-03",
+    "country": "CA",
+    "amount": 208.96,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00018",
+    "invoice_date": "2019-02-04",
+    "country": "US",
+    "amount": 773.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00019",
+    "invoice_date": "2019-02-04",
+    "country": "GB",
+    "amount": 456.18,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00020",
+    "invoice_date": "2019-02-04",
+    "country": "DE",
+    "amount": 334.58,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00021",
+    "invoice_date": "2019-02-04",
+    "country": "FR",
+    "amount": 227.7,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00022",
+    "invoice_date": "2019-02-04",
+    "country": "AU",
+    "amount": 241.37,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00023",
+    "invoice_date": "2019-02-04",
+    "country": "CA",
+    "amount": 210.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00024",
+    "invoice_date": "2019-02-05",
+    "country": "US",
+    "amount": 682.36,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00025",
+    "invoice_date": "2019-02-05",
+    "country": "GB",
+    "amount": 335.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00026",
+    "invoice_date": "2019-02-05",
+    "country": "DE",
+    "amount": 320.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00027",
+    "invoice_date": "2019-02-05",
+    "country": "FR",
+    "amount": 295.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00028",
+    "invoice_date": "2019-02-05",
+    "country": "AU",
+    "amount": 229.49,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00029",
+    "invoice_date": "2019-02-05",
+    "country": "CA",
+    "amount": 190.16,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00030",
+    "invoice_date": "2019-02-06",
+    "country": "US",
+    "amount": 918.91,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00031",
+    "invoice_date": "2019-02-06",
+    "country": "GB",
+    "amount": 426.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00032",
+    "invoice_date": "2019-02-06",
+    "country": "DE",
+    "amount": 296.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00033",
+    "invoice_date": "2019-02-06",
+    "country": "FR",
+    "amount": 215.32,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00034",
+    "invoice_date": "2019-02-06",
+    "country": "AU",
+    "amount": 230.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00035",
+    "invoice_date": "2019-02-06",
+    "country": "CA",
+    "amount": 220.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00036",
+    "invoice_date": "2019-02-07",
+    "country": "US",
+    "amount": 678.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00037",
+    "invoice_date": "2019-02-07",
+    "country": "GB",
+    "amount": 385.53,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00038",
+    "invoice_date": "2019-02-07",
+    "country": "DE",
+    "amount": 331.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00039",
+    "invoice_date": "2019-02-07",
+    "country": "FR",
+    "amount": 191.74,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00040",
+    "invoice_date": "2019-02-07",
+    "country": "AU",
+    "amount": 237.19,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00041",
+    "invoice_date": "2019-02-07",
+    "country": "CA",
+    "amount": 151.88,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00042",
+    "invoice_date": "2019-02-08",
+    "country": "US",
+    "amount": 636.47,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00043",
+    "invoice_date": "2019-02-08",
+    "country": "GB",
+    "amount": 319.62,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00044",
+    "invoice_date": "2019-02-08",
+    "country": "DE",
+    "amount": 317.22,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00045",
+    "invoice_date": "2019-02-08",
+    "country": "FR",
+    "amount": 209.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00046",
+    "invoice_date": "2019-02-08",
+    "country": "AU",
+    "amount": 241.31,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00047",
+    "invoice_date": "2019-02-08",
+    "country": "CA",
+    "amount": 183.01,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00048",
+    "invoice_date": "2019-02-09",
+    "country": "US",
+    "amount": 710.61,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00049",
+    "invoice_date": "2019-02-09",
+    "country": "GB",
+    "amount": 390.72,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00050",
+    "invoice_date": "2019-02-09",
+    "country": "DE",
+    "amount": 329.81,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00051",
+    "invoice_date": "2019-02-09",
+    "country": "FR",
+    "amount": 223.84,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00052",
+    "invoice_date": "2019-02-09",
+    "country": "AU",
+    "amount": 248.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00053",
+    "invoice_date": "2019-02-09",
+    "country": "CA",
+    "amount": 220.78,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00054",
+    "invoice_date": "2019-02-10",
+    "country": "US",
+    "amount": 635.32,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00055",
+    "invoice_date": "2019-02-10",
+    "country": "GB",
+    "amount": 390.45,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00056",
+    "invoice_date": "2019-02-10",
+    "country": "DE",
+    "amount": 405.55,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00057",
+    "invoice_date": "2019-02-10",
+    "country": "FR",
+    "amount": 248.16,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00058",
+    "invoice_date": "2019-02-10",
+    "country": "AU",
+    "amount": 200.12,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00059",
+    "invoice_date": "2019-02-10",
+    "country": "CA",
+    "amount": 201.1,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00060",
+    "invoice_date": "2019-02-11",
+    "country": "US",
+    "amount": 821.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00061",
+    "invoice_date": "2019-02-11",
+    "country": "GB",
+    "amount": 397.5,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00062",
+    "invoice_date": "2019-02-11",
+    "country": "DE",
+    "amount": 385.53,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00063",
+    "invoice_date": "2019-02-11",
+    "country": "FR",
+    "amount": 285.63,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00064",
+    "invoice_date": "2019-02-11",
+    "country": "AU",
+    "amount": 251.66,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00065",
+    "invoice_date": "2019-02-11",
+    "country": "CA",
+    "amount": 245.71,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00066",
+    "invoice_date": "2019-02-12",
+    "country": "US",
+    "amount": 816.89,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00067",
+    "invoice_date": "2019-02-12",
+    "country": "GB",
+    "amount": 463.49,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00068",
+    "invoice_date": "2019-02-12",
+    "country": "DE",
+    "amount": 354.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00069",
+    "invoice_date": "2019-02-12",
+    "country": "FR",
+    "amount": 281.67,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00070",
+    "invoice_date": "2019-02-12",
+    "country": "AU",
+    "amount": 223.7,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00071",
+    "invoice_date": "2019-02-12",
+    "country": "CA",
+    "amount": 230.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00072",
+    "invoice_date": "2019-02-13",
+    "country": "US",
+    "amount": 746.91,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00073",
+    "invoice_date": "2019-02-13",
+    "country": "GB",
+    "amount": 353.44,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00074",
+    "invoice_date": "2019-02-13",
+    "country": "DE",
+    "amount": 342.26,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00075",
+    "invoice_date": "2019-02-13",
+    "country": "FR",
+    "amount": 279.62,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00076",
+    "invoice_date": "2019-02-13",
+    "country": "AU",
+    "amount": 252.46,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00077",
+    "invoice_date": "2019-02-13",
+    "country": "CA",
+    "amount": 176.03,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00078",
+    "invoice_date": "2019-02-14",
+    "country": "US",
+    "amount": 555.25,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00079",
+    "invoice_date": "2019-02-14",
+    "country": "GB",
+    "amount": 326.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00080",
+    "invoice_date": "2019-02-14",
+    "country": "DE",
+    "amount": 392.31,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00081",
+    "invoice_date": "2019-02-14",
+    "country": "FR",
+    "amount": 269.89,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00082",
+    "invoice_date": "2019-02-14",
+    "country": "AU",
+    "amount": 181.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00083",
+    "invoice_date": "2019-02-14",
+    "country": "CA",
+    "amount": 185.45,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00084",
+    "invoice_date": "2019-02-15",
+    "country": "US",
+    "amount": 695.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00085",
+    "invoice_date": "2019-02-15",
+    "country": "GB",
+    "amount": 383.7,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00086",
+    "invoice_date": "2019-02-15",
+    "country": "DE",
+    "amount": 341.5,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00087",
+    "invoice_date": "2019-02-15",
+    "country": "FR",
+    "amount": 237.22,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00088",
+    "invoice_date": "2019-02-15",
+    "country": "AU",
+    "amount": 234.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00089",
+    "invoice_date": "2019-02-15",
+    "country": "CA",
+    "amount": 204.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00090",
+    "invoice_date": "2019-02-16",
+    "country": "US",
+    "amount": 803.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00091",
+    "invoice_date": "2019-02-16",
+    "country": "GB",
+    "amount": 365.56,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00092",
+    "invoice_date": "2019-02-16",
+    "country": "DE",
+    "amount": 323.9,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00093",
+    "invoice_date": "2019-02-16",
+    "country": "FR",
+    "amount": 297.24,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00094",
+    "invoice_date": "2019-02-16",
+    "country": "AU",
+    "amount": 242.95,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00095",
+    "invoice_date": "2019-02-16",
+    "country": "CA",
+    "amount": 172.56,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00096",
+    "invoice_date": "2019-02-17",
+    "country": "US",
+    "amount": 825.38,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00097",
+    "invoice_date": "2019-02-17",
+    "country": "GB",
+    "amount": 463.35,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00098",
+    "invoice_date": "2019-02-17",
+    "country": "DE",
+    "amount": 394.61,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00099",
+    "invoice_date": "2019-02-17",
+    "country": "FR",
+    "amount": 274.7,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00100",
+    "invoice_date": "2019-02-17",
+    "country": "AU",
+    "amount": 252.29,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00101",
+    "invoice_date": "2019-02-17",
+    "country": "CA",
+    "amount": 193.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00102",
+    "invoice_date": "2019-02-18",
+    "country": "US",
+    "amount": 660.65,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00103",
+    "invoice_date": "2019-02-18",
+    "country": "GB",
+    "amount": 425.8,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00104",
+    "invoice_date": "2019-02-18",
+    "country": "DE",
+    "amount": 418.31,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00105",
+    "invoice_date": "2019-02-18",
+    "country": "FR",
+    "amount": 301.11,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00106",
+    "invoice_date": "2019-02-18",
+    "country": "AU",
+    "amount": 239.87,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00107",
+    "invoice_date": "2019-02-18",
+    "country": "CA",
+    "amount": 194.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00108",
+    "invoice_date": "2019-02-19",
+    "country": "US",
+    "amount": 763.08,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00109",
+    "invoice_date": "2019-02-19",
+    "country": "GB",
+    "amount": 420.14,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00110",
+    "invoice_date": "2019-02-19",
+    "country": "DE",
+    "amount": 377.73,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00111",
+    "invoice_date": "2019-02-19",
+    "country": "FR",
+    "amount": 300.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00112",
+    "invoice_date": "2019-02-19",
+    "country": "AU",
+    "amount": 274.22,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00113",
+    "invoice_date": "2019-02-19",
+    "country": "CA",
+    "amount": 207.85,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00114",
+    "invoice_date": "2019-02-20",
+    "country": "US",
+    "amount": 781.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00115",
+    "invoice_date": "2019-02-20",
+    "country": "GB",
+    "amount": 447.07,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00116",
+    "invoice_date": "2019-02-20",
+    "country": "DE",
+    "amount": 330.17,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00117",
+    "invoice_date": "2019-02-20",
+    "country": "FR",
+    "amount": 247.33,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00118",
+    "invoice_date": "2019-02-20",
+    "country": "AU",
+    "amount": 232.02,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00119",
+    "invoice_date": "2019-02-20",
+    "country": "CA",
+    "amount": 179.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00120",
+    "invoice_date": "2019-02-21",
+    "country": "US",
+    "amount": 639.85,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00121",
+    "invoice_date": "2019-02-21",
+    "country": "GB",
+    "amount": 409.53,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00122",
+    "invoice_date": "2019-02-21",
+    "country": "DE",
+    "amount": 365.28,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00123",
+    "invoice_date": "2019-02-21",
+    "country": "FR",
+    "amount": 291.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00124",
+    "invoice_date": "2019-02-21",
+    "country": "AU",
+    "amount": 224.12,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00125",
+    "invoice_date": "2019-02-21",
+    "country": "CA",
+    "amount": 202.9,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00126",
+    "invoice_date": "2019-02-22",
+    "country": "US",
+    "amount": 658.4,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00127",
+    "invoice_date": "2019-02-22",
+    "country": "GB",
+    "amount": 357.22,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00128",
+    "invoice_date": "2019-02-22",
+    "country": "DE",
+    "amount": 418.7,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00129",
+    "invoice_date": "2019-02-22",
+    "country": "FR",
+    "amount": 197.73,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00130",
+    "invoice_date": "2019-02-22",
+    "country": "AU",
+    "amount": 202.93,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00131",
+    "invoice_date": "2019-02-22",
+    "country": "CA",
+    "amount": 222.2,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00132",
+    "invoice_date": "2019-02-23",
+    "country": "US",
+    "amount": 812.83,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00133",
+    "invoice_date": "2019-02-23",
+    "country": "GB",
+    "amount": 482.94,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00134",
+    "invoice_date": "2019-02-23",
+    "country": "DE",
+    "amount": 381.37,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00135",
+    "invoice_date": "2019-02-23",
+    "country": "FR",
+    "amount": 249.64,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00136",
+    "invoice_date": "2019-02-23",
+    "country": "AU",
+    "amount": 246.12,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00137",
+    "invoice_date": "2019-02-23",
+    "country": "CA",
+    "amount": 228.55,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00138",
+    "invoice_date": "2019-02-24",
+    "country": "US",
+    "amount": 774.85,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00139",
+    "invoice_date": "2019-02-24",
+    "country": "GB",
+    "amount": 360.54,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00140",
+    "invoice_date": "2019-02-24",
+    "country": "DE",
+    "amount": 386.78,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00141",
+    "invoice_date": "2019-02-24",
+    "country": "FR",
+    "amount": 300.3,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00142",
+    "invoice_date": "2019-02-24",
+    "country": "AU",
+    "amount": 249.97,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00143",
+    "invoice_date": "2019-02-24",
+    "country": "CA",
+    "amount": 203.23,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00144",
+    "invoice_date": "2019-02-25",
+    "country": "US",
+    "amount": 800.51,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00145",
+    "invoice_date": "2019-02-25",
+    "country": "GB",
+    "amount": 478.34,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00146",
+    "invoice_date": "2019-02-25",
+    "country": "DE",
+    "amount": 495.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00147",
+    "invoice_date": "2019-02-25",
+    "country": "FR",
+    "amount": 311.42,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00148",
+    "invoice_date": "2019-02-25",
+    "country": "AU",
+    "amount": 240.26,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00149",
+    "invoice_date": "2019-02-25",
+    "country": "CA",
+    "amount": 186.49,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00150",
+    "invoice_date": "2019-02-26",
+    "country": "US",
+    "amount": 757.4,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00151",
+    "invoice_date": "2019-02-26",
+    "country": "GB",
+    "amount": 376.74,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00152",
+    "invoice_date": "2019-02-26",
+    "country": "DE",
+    "amount": 336.58,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00153",
+    "invoice_date": "2019-02-26",
+    "country": "FR",
+    "amount": 301.9,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00154",
+    "invoice_date": "2019-02-26",
+    "country": "AU",
+    "amount": 240.32,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00155",
+    "invoice_date": "2019-02-26",
+    "country": "CA",
+    "amount": 210.41,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00156",
+    "invoice_date": "2019-02-27",
+    "country": "US",
+    "amount": 705.77,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00157",
+    "invoice_date": "2019-02-27",
+    "country": "GB",
+    "amount": 372.06,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00158",
+    "invoice_date": "2019-02-27",
+    "country": "DE",
+    "amount": 325.13,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00159",
+    "invoice_date": "2019-02-27",
+    "country": "FR",
+    "amount": 231.27,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00160",
+    "invoice_date": "2019-02-27",
+    "country": "AU",
+    "amount": 238.21,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00161",
+    "invoice_date": "2019-02-27",
+    "country": "CA",
+    "amount": 225.12,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00162",
+    "invoice_date": "2019-02-28",
+    "country": "US",
+    "amount": 734.78,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00163",
+    "invoice_date": "2019-02-28",
+    "country": "GB",
+    "amount": 364.66,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00164",
+    "invoice_date": "2019-02-28",
+    "country": "DE",
+    "amount": 334.76,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00165",
+    "invoice_date": "2019-02-28",
+    "country": "FR",
+    "amount": 241.09,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00166",
+    "invoice_date": "2019-02-28",
+    "country": "AU",
+    "amount": 240.72,
+    "currency": "USD"
+  },
+  {
+    "invoice_id": "201902-00167",
+    "invoice_date": "2019-02-28",
+    "country": "CA",
+    "amount": 196.07,
+    "currency": "USD"
+  }
+]
