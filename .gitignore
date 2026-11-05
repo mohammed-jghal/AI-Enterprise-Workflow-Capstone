@@ -1,10 +1,6 @@
 __pycache__/
-*.pyc
-*.pickle
-.env
+*.py[cod]
 .venv/
-venv/
-data/output/
-models/
-logs/
-.ipynb_checkpoints/
+.pytest_cache/
+logs/*.jsonl
+models/*.pkl
