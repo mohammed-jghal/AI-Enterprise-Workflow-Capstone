@@ -20,6 +20,7 @@ import numpy as np
 import pandas as pd
 from flask import Flask, g, jsonify, request
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from werkzeug.exceptions import HTTPException
 
 from .log import read_log, write_log
 
@@ -57,6 +58,10 @@ def create_app(test_config: dict | None = None) -> Flask:
 
     @application.errorhandler(Exception)
     def handle_unexpected_error(exc):
+        # HTTP errors (404, 405, ...) must keep their status: converting
+        # them to 500 hides routing mistakes from clients and tests.
+        if isinstance(exc, HTTPException):
+            return exc
         application.logger.exception("Unhandled request error", exc_info=exc)
         return _error("internal_error", "An unexpected server error occurred", 500)
 
@@ -81,10 +86,20 @@ def create_app(test_config: dict | None = None) -> Flask:
     def predict():
         started = time.perf_counter()
         try:
-            start = _parse_date(request.args.get("date"))
+            requested = _parse_date(request.args.get("date"))
             duration = _parse_duration(request.args.get("duration", "30"), application.config["MAX_FORECAST_DAYS"])
             country = _parse_country(request.args.get("country"))
             data = _load_payload(country, application.config)
+            last_available = data["invoice_date"].max()
+            # A SARIMA forecast is anchored the day after the history ends.
+            # Labelling it with a later requested date would silently
+            # misdate every predicted day, so reject out-of-range dates
+            # instead of returning a mislabelled forecast. With no date,
+            # default to the first forecastable day, not "today" (which is
+            # years past the end of this dataset).
+            start = requested if requested is not None else last_available + pd.Timedelta(days=1)
+            if start > last_available + pd.Timedelta(days=1):
+                raise ApiError("date_out_of_range", "date is after available history", 400)
             history = data[data["invoice_date"] < start]
             if history.empty:
                 raise ApiError("date_out_of_range", "date is before available history", 400)
@@ -131,9 +146,9 @@ def _error(code: str, message: str, status: int):
     return jsonify({"error": {"code": code, "message": message, "request_id": getattr(g, "request_id", None)}}), status
 
 
-def _parse_date(value: str | None) -> pd.Timestamp:
+def _parse_date(value: str | None) -> pd.Timestamp | None:
     if not value:
-        return pd.Timestamp.today().normalize()
+        return None
     parsed = pd.to_datetime(value, errors="coerce")
     if pd.isna(parsed):
         raise ApiError("invalid_date", "date must be a valid ISO date such as 2018-11-20", 400)
@@ -181,6 +196,29 @@ def _load_payload(country: str | None, config: dict) -> pd.DataFrame:
 
 
 _FORECAST_CACHE: dict = {}
+_FORECAST_CACHE_MAX = 64
+
+
+def _artifact_fingerprint(model_path: Path) -> tuple | None:
+    """(path, mtime_ns, size) of a model artifact, or None if absent.
+
+    The ~15 MB pickle must not be re-read on every request: /health,
+    /version and /predict each needed it. The fingerprint makes the
+    cache safe against the artifact being replaced on disk.
+    """
+    try:
+        stat = model_path.stat()
+    except OSError:
+        return None
+    return (str(model_path), stat.st_mtime_ns, stat.st_size)
+
+
+@lru_cache(maxsize=8)
+def _load_artifact_payload(fingerprint: tuple) -> dict:
+    path = Path(fingerprint[0])
+    with path.open("rb") as stream:
+        payload = pickle.load(stream)
+    return payload if isinstance(payload, dict) else {}
 
 
 def _saved_model_spec(model_path: Path) -> dict:
@@ -192,17 +230,18 @@ def _saved_model_spec(model_path: Path) -> dict:
     Defaults match ``src/model.py`` when no artifact is present.
     """
     spec = {"kind": "sarima", "order": (2, 1, 2), "seasonal_order": (1, 0, 1, 7)}
+    fingerprint = _artifact_fingerprint(model_path)
+    if fingerprint is None:
+        return spec
     try:
-        with model_path.open("rb") as stream:
-            payload = pickle.load(stream)
-        if isinstance(payload, dict):
-            spec["kind"] = str(payload.get("kind", "sarima"))
-            if payload.get("order"):
-                spec["order"] = tuple(payload["order"])
-            if payload.get("seasonal_order"):
-                spec["seasonal_order"] = tuple(payload["seasonal_order"])
+        payload = _load_artifact_payload(fingerprint)
     except Exception:
-        pass
+        return spec
+    spec["kind"] = str(payload.get("kind", "sarima"))
+    if payload.get("order"):
+        spec["order"] = tuple(payload["order"])
+    if payload.get("seasonal_order"):
+        spec["seasonal_order"] = tuple(payload["seasonal_order"])
     return spec
 
 
@@ -259,19 +298,21 @@ def _forecast(frame: pd.DataFrame, horizon: int, model_path: Path | None = None)
         predictions = [value] * horizon
         method = "baseline_fallback"
     result = (predictions, method)
+    if len(_FORECAST_CACHE) >= _FORECAST_CACHE_MAX:
+        _FORECAST_CACHE.clear()
     _FORECAST_CACHE[cache_key] = result
     return result
 
 
 def _model_version(path: Path) -> str:
-    if not path.exists():
+    fingerprint = _artifact_fingerprint(path)
+    if fingerprint is None:
         return "unavailable"
     try:
-        with path.open("rb") as stream:
-            payload = pickle.load(stream)
-        return str(payload.get("model_version", "unknown"))
+        payload = _load_artifact_payload(fingerprint)
     except Exception:
         return "invalid"
+    return str(payload.get("model_version", "unknown"))
 
 
 app = create_app()

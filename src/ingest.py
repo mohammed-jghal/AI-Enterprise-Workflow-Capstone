@@ -2,17 +2,18 @@
 
 Supports two input schemas:
 
-1. Synthetic sample schema (shipped in ``data/input/``):
-   ``invoice_date`` (ISO date), ``country`` (two-letter code, e.g. ``US``),
-   ``amount`` (numeric revenue).
-
-2. Real Coursera course schema (IBM AI Enterprise Workflow, as published in
-   the reference repository):
+1. Real Coursera course schema (IBM AI Enterprise Workflow, as published
+   in the reference repository) — also the schema of the synthetic sample
+   shipped in ``data/input/``:
    ``country`` (full name, e.g. ``"United Kingdom"``), ``price`` (numeric),
    ``times_viewed``, ``year`` / ``month`` / ``day``, ``invoice``,
    ``customer_id``, ``stream_id``.
    Revenue for a record is ``price``; the invoice date is built from
    ``year``/``month``/``day``; full country names are mapped to ISO codes.
+
+2. Legacy synthetic schema (kept for backward compatibility):
+   ``invoice_date`` (ISO date), ``country`` (two-letter code, e.g. ``US``),
+   ``amount`` (numeric revenue).
 
 Both schemas produce the same five deterministic outputs, so downstream
 code (model, API, notebooks) is unchanged whichever input is used.
@@ -96,14 +97,24 @@ def normalize_record(record):
 
 
 def detect_schema(records):
-    """Return 'coursera' if records look like the real course schema."""
+    """Return 'coursera' if records look like the real course schema.
+
+    Majority vote over the records, not just the first match: a file
+    with a stray header row or a bad row first must not mislabel the
+    whole file. Returns 'unknown' when neither schema matches.
+    """
+    coursera = synthetic = 0
     for rec in records:
         if not isinstance(rec, dict):
             continue
         if 'price' in rec and ('year' in rec or 'times_viewed' in rec):
-            return 'coursera'
-        if 'invoice_date' in rec and 'amount' in rec:
-            return 'synthetic'
+            coursera += 1
+        elif 'invoice_date' in rec and 'amount' in rec:
+            synthetic += 1
+    if coursera and coursera >= synthetic:
+        return 'coursera'
+    if synthetic:
+        return 'synthetic'
     return 'unknown'
 
 
