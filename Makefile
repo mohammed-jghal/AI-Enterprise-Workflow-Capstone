@@ -3,7 +3,7 @@ PYTHON ?= python3
 .PHONY: install ingest train test quality run docker
 
 install:
-	$(PYTHON) -m pip install -r requirements.txt
+	$(PYTHON) -m pip install -r requirements-dev.txt
 
 ingest:
 	$(PYTHON) run_ingest.py

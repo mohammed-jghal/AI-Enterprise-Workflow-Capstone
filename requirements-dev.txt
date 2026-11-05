@@ -1,0 +1,8 @@
+# Development / test / notebook dependencies. Installed by `make install`
+# and by CI. The Docker image installs only requirements.txt (runtime).
+-r requirements.txt
+matplotlib==3.9.2
+seaborn==0.13.2
+pytest==8.3.3
+nbconvert==7.16.6
+ipykernel==7.4.0
