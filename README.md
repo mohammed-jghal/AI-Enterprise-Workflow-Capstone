@@ -94,7 +94,9 @@ make quality
 make test
 ```
 
-The suite contains 21 tests covering the API (including a test that SARIMA predictions are not flat), model behaviour, isolated logging, and ingestion of both the synthetic and the real Coursera data schemas. Tests write to temporary directories and never overwrite production `logs/` or `models/`. Run them with `python run_tests.py` — the last verified run passed 21/21. GitHub Actions repeats ingestion, training, notebook JSON validation, compilation, and tests on every push and pull request.
+The suite contains 21 tests covering the API (including a test that SARIMA predictions are not flat), model behaviour, isolated logging, and ingestion of both the synthetic and the real Coursera data schemas. Tests write to temporary directories and never overwrite production `logs/` or `models/`. Run them with `python run_tests.py` — the last verified run passed 21/21.
+
+Note: the CI workflow file `.github/workflows/ci.yml` is not in this repository yet. The GitHub API integration used for publishing cannot create workflow files (it returns 403 for `.github/workflows/`). Add that file via the GitHub web UI to get automated ingestion, training, notebook validation, compilation, and tests on every push and pull request.
 
 ## Docker
 
@@ -114,6 +116,6 @@ The image runs as a non-root user and exposes a Docker healthcheck. Docker is in
 - `data/input/`: monthly invoice JSON source files.
 - `data/output/`: generated deterministic data products and metrics.
 - `models/`: trained artifact.
-- `.github/workflows/ci.yml`: automated quality gate.
+- `.github/workflows/ci.yml`: automated quality gate (not in the repository yet — see the note in "Tests and quality gates").
 - `.env.example`: documented runtime configuration.
 - `SECURITY.md`: deployment security expectations.
