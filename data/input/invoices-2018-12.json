@@ -1,1304 +1,2048 @@
 [
   {
-    "invoice_id": "201812-00000",
-    "invoice_date": "2018-12-01",
-    "country": "US",
-    "amount": 592.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00001",
-    "invoice_date": "2018-12-01",
-    "country": "GB",
-    "amount": 303.58,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00002",
-    "invoice_date": "2018-12-01",
-    "country": "DE",
-    "amount": 334.89,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00003",
-    "invoice_date": "2018-12-01",
-    "country": "FR",
-    "amount": 190.04,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00004",
-    "invoice_date": "2018-12-01",
-    "country": "AU",
-    "amount": 163.96,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00005",
-    "invoice_date": "2018-12-01",
-    "country": "CA",
-    "amount": 155.54,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00006",
-    "invoice_date": "2018-12-02",
-    "country": "US",
-    "amount": 666.64,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00007",
-    "invoice_date": "2018-12-02",
-    "country": "GB",
-    "amount": 336.56,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00008",
-    "invoice_date": "2018-12-02",
-    "country": "DE",
-    "amount": 314.49,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00009",
-    "invoice_date": "2018-12-02",
-    "country": "FR",
-    "amount": 232.72,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00010",
-    "invoice_date": "2018-12-02",
-    "country": "AU",
-    "amount": 210.54,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00011",
-    "invoice_date": "2018-12-02",
-    "country": "CA",
-    "amount": 163.37,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00012",
-    "invoice_date": "2018-12-03",
-    "country": "US",
-    "amount": 503.04,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00013",
-    "invoice_date": "2018-12-03",
-    "country": "GB",
-    "amount": 384.75,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00014",
-    "invoice_date": "2018-12-03",
-    "country": "DE",
-    "amount": 312.2,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00015",
-    "invoice_date": "2018-12-03",
-    "country": "FR",
-    "amount": 250.68,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00016",
-    "invoice_date": "2018-12-03",
-    "country": "AU",
-    "amount": 198.04,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00017",
-    "invoice_date": "2018-12-03",
-    "country": "CA",
-    "amount": 203.25,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00018",
-    "invoice_date": "2018-12-04",
-    "country": "US",
-    "amount": 638.23,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00019",
-    "invoice_date": "2018-12-04",
-    "country": "GB",
-    "amount": 310.95,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00020",
-    "invoice_date": "2018-12-04",
-    "country": "DE",
-    "amount": 301.14,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00021",
-    "invoice_date": "2018-12-04",
-    "country": "FR",
-    "amount": 235.95,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00022",
-    "invoice_date": "2018-12-04",
-    "country": "AU",
-    "amount": 218.77,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00023",
-    "invoice_date": "2018-12-04",
-    "country": "CA",
-    "amount": 198.65,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00024",
-    "invoice_date": "2018-12-05",
-    "country": "US",
-    "amount": 626.22,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00025",
-    "invoice_date": "2018-12-05",
-    "country": "GB",
-    "amount": 336.69,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00026",
-    "invoice_date": "2018-12-05",
-    "country": "DE",
-    "amount": 256.66,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00027",
-    "invoice_date": "2018-12-05",
-    "country": "FR",
-    "amount": 218.47,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00028",
-    "invoice_date": "2018-12-05",
-    "country": "AU",
-    "amount": 146.63,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00029",
-    "invoice_date": "2018-12-05",
-    "country": "CA",
-    "amount": 151.1,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00030",
-    "invoice_date": "2018-12-06",
-    "country": "US",
-    "amount": 559.95,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00031",
-    "invoice_date": "2018-12-06",
-    "country": "GB",
-    "amount": 327.37,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00032",
-    "invoice_date": "2018-12-06",
-    "country": "DE",
-    "amount": 282.71,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00033",
-    "invoice_date": "2018-12-06",
-    "country": "FR",
-    "amount": 211.5,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00034",
-    "invoice_date": "2018-12-06",
-    "country": "AU",
-    "amount": 172.76,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00035",
-    "invoice_date": "2018-12-06",
-    "country": "CA",
-    "amount": 126.24,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00036",
-    "invoice_date": "2018-12-07",
-    "country": "US",
-    "amount": 684.25,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00037",
-    "invoice_date": "2018-12-07",
-    "country": "GB",
-    "amount": 320.52,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00038",
-    "invoice_date": "2018-12-07",
-    "country": "DE",
-    "amount": 266.36,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00039",
-    "invoice_date": "2018-12-07",
-    "country": "FR",
-    "amount": 211.83,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00040",
-    "invoice_date": "2018-12-07",
-    "country": "AU",
-    "amount": 187.16,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00041",
-    "invoice_date": "2018-12-07",
-    "country": "CA",
-    "amount": 167.31,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00042",
-    "invoice_date": "2018-12-08",
-    "country": "US",
-    "amount": 590.15,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00043",
-    "invoice_date": "2018-12-08",
-    "country": "GB",
-    "amount": 300.99,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00044",
-    "invoice_date": "2018-12-08",
-    "country": "DE",
-    "amount": 294.79,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00045",
-    "invoice_date": "2018-12-08",
-    "country": "FR",
-    "amount": 215.37,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00046",
-    "invoice_date": "2018-12-08",
-    "country": "AU",
-    "amount": 179.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00047",
-    "invoice_date": "2018-12-08",
-    "country": "CA",
-    "amount": 171.79,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00048",
-    "invoice_date": "2018-12-09",
-    "country": "US",
-    "amount": 652.19,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00049",
-    "invoice_date": "2018-12-09",
-    "country": "GB",
-    "amount": 383.68,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00050",
-    "invoice_date": "2018-12-09",
-    "country": "DE",
-    "amount": 312.47,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00051",
-    "invoice_date": "2018-12-09",
-    "country": "FR",
-    "amount": 218.25,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00052",
-    "invoice_date": "2018-12-09",
-    "country": "AU",
-    "amount": 250.61,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00053",
-    "invoice_date": "2018-12-09",
-    "country": "CA",
-    "amount": 175.06,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00054",
-    "invoice_date": "2018-12-10",
-    "country": "US",
-    "amount": 756.58,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00055",
-    "invoice_date": "2018-12-10",
-    "country": "GB",
-    "amount": 403.91,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00056",
-    "invoice_date": "2018-12-10",
-    "country": "DE",
-    "amount": 284.97,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00057",
-    "invoice_date": "2018-12-10",
-    "country": "FR",
-    "amount": 261.0,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00058",
-    "invoice_date": "2018-12-10",
-    "country": "AU",
-    "amount": 199.57,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00059",
-    "invoice_date": "2018-12-10",
-    "country": "CA",
-    "amount": 159.19,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00060",
-    "invoice_date": "2018-12-11",
-    "country": "US",
-    "amount": 660.98,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00061",
-    "invoice_date": "2018-12-11",
-    "country": "GB",
-    "amount": 340.4,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00062",
-    "invoice_date": "2018-12-11",
-    "country": "DE",
-    "amount": 369.75,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00063",
-    "invoice_date": "2018-12-11",
-    "country": "FR",
-    "amount": 251.1,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00064",
-    "invoice_date": "2018-12-11",
-    "country": "AU",
-    "amount": 201.69,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00065",
-    "invoice_date": "2018-12-11",
-    "country": "CA",
-    "amount": 176.74,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00066",
-    "invoice_date": "2018-12-12",
-    "country": "US",
-    "amount": 644.76,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00067",
-    "invoice_date": "2018-12-12",
-    "country": "GB",
-    "amount": 301.5,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00068",
-    "invoice_date": "2018-12-12",
-    "country": "DE",
-    "amount": 322.12,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00069",
-    "invoice_date": "2018-12-12",
-    "country": "FR",
-    "amount": 224.63,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00070",
-    "invoice_date": "2018-12-12",
-    "country": "AU",
-    "amount": 212.89,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00071",
-    "invoice_date": "2018-12-12",
-    "country": "CA",
-    "amount": 182.25,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00072",
-    "invoice_date": "2018-12-13",
-    "country": "US",
-    "amount": 577.17,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00073",
-    "invoice_date": "2018-12-13",
-    "country": "GB",
-    "amount": 316.26,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00074",
-    "invoice_date": "2018-12-13",
-    "country": "DE",
-    "amount": 270.01,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00075",
-    "invoice_date": "2018-12-13",
-    "country": "FR",
-    "amount": 196.04,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00076",
-    "invoice_date": "2018-12-13",
-    "country": "AU",
-    "amount": 193.11,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00077",
-    "invoice_date": "2018-12-13",
-    "country": "CA",
-    "amount": 165.58,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00078",
-    "invoice_date": "2018-12-14",
-    "country": "US",
-    "amount": 602.02,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00079",
-    "invoice_date": "2018-12-14",
-    "country": "GB",
-    "amount": 306.99,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00080",
-    "invoice_date": "2018-12-14",
-    "country": "DE",
-    "amount": 262.53,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00081",
-    "invoice_date": "2018-12-14",
-    "country": "FR",
-    "amount": 197.71,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00082",
-    "invoice_date": "2018-12-14",
-    "country": "AU",
-    "amount": 185.5,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00083",
-    "invoice_date": "2018-12-14",
-    "country": "CA",
-    "amount": 171.73,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00084",
-    "invoice_date": "2018-12-15",
-    "country": "US",
-    "amount": 670.55,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00085",
-    "invoice_date": "2018-12-15",
-    "country": "GB",
-    "amount": 340.19,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00086",
-    "invoice_date": "2018-12-15",
-    "country": "DE",
-    "amount": 306.24,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00087",
-    "invoice_date": "2018-12-15",
-    "country": "FR",
-    "amount": 231.27,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00088",
-    "invoice_date": "2018-12-15",
-    "country": "AU",
-    "amount": 220.24,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00089",
-    "invoice_date": "2018-12-15",
-    "country": "CA",
-    "amount": 151.72,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00090",
-    "invoice_date": "2018-12-16",
-    "country": "US",
-    "amount": 702.91,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00091",
-    "invoice_date": "2018-12-16",
-    "country": "GB",
-    "amount": 292.65,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00092",
-    "invoice_date": "2018-12-16",
-    "country": "DE",
-    "amount": 367.33,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00093",
-    "invoice_date": "2018-12-16",
-    "country": "FR",
-    "amount": 231.92,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00094",
-    "invoice_date": "2018-12-16",
-    "country": "AU",
-    "amount": 198.01,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00095",
-    "invoice_date": "2018-12-16",
-    "country": "CA",
-    "amount": 193.06,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00096",
-    "invoice_date": "2018-12-17",
-    "country": "US",
-    "amount": 753.12,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00097",
-    "invoice_date": "2018-12-17",
-    "country": "GB",
-    "amount": 339.88,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00098",
-    "invoice_date": "2018-12-17",
-    "country": "DE",
-    "amount": 306.47,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00099",
-    "invoice_date": "2018-12-17",
-    "country": "FR",
-    "amount": 251.27,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00100",
-    "invoice_date": "2018-12-17",
-    "country": "AU",
-    "amount": 214.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00101",
-    "invoice_date": "2018-12-17",
-    "country": "CA",
-    "amount": 192.66,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00102",
-    "invoice_date": "2018-12-18",
-    "country": "US",
-    "amount": 672.67,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00103",
-    "invoice_date": "2018-12-18",
-    "country": "GB",
-    "amount": 341.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00104",
-    "invoice_date": "2018-12-18",
-    "country": "DE",
-    "amount": 353.17,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00105",
-    "invoice_date": "2018-12-18",
-    "country": "FR",
-    "amount": 234.41,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00106",
-    "invoice_date": "2018-12-18",
-    "country": "AU",
-    "amount": 225.33,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00107",
-    "invoice_date": "2018-12-18",
-    "country": "CA",
-    "amount": 107.29,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00108",
-    "invoice_date": "2018-12-19",
-    "country": "US",
-    "amount": 705.72,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00109",
-    "invoice_date": "2018-12-19",
-    "country": "GB",
-    "amount": 362.86,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00110",
-    "invoice_date": "2018-12-19",
-    "country": "DE",
-    "amount": 291.32,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00111",
-    "invoice_date": "2018-12-19",
-    "country": "FR",
-    "amount": 263.52,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00112",
-    "invoice_date": "2018-12-19",
-    "country": "AU",
-    "amount": 210.19,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00113",
-    "invoice_date": "2018-12-19",
-    "country": "CA",
-    "amount": 164.24,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00114",
-    "invoice_date": "2018-12-20",
-    "country": "US",
-    "amount": 623.68,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00115",
-    "invoice_date": "2018-12-20",
-    "country": "GB",
-    "amount": 378.92,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00116",
-    "invoice_date": "2018-12-20",
-    "country": "DE",
-    "amount": 290.8,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00117",
-    "invoice_date": "2018-12-20",
-    "country": "FR",
-    "amount": 193.27,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00118",
-    "invoice_date": "2018-12-20",
-    "country": "AU",
-    "amount": 214.57,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00119",
-    "invoice_date": "2018-12-20",
-    "country": "CA",
-    "amount": 133.16,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00120",
-    "invoice_date": "2018-12-21",
-    "country": "US",
-    "amount": 511.97,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00121",
-    "invoice_date": "2018-12-21",
-    "country": "GB",
-    "amount": 287.63,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00122",
-    "invoice_date": "2018-12-21",
-    "country": "DE",
-    "amount": 263.59,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00123",
-    "invoice_date": "2018-12-21",
-    "country": "FR",
-    "amount": 168.3,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00124",
-    "invoice_date": "2018-12-21",
-    "country": "AU",
-    "amount": 225.03,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00125",
-    "invoice_date": "2018-12-21",
-    "country": "CA",
-    "amount": 164.07,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00126",
-    "invoice_date": "2018-12-22",
-    "country": "US",
-    "amount": 561.23,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00127",
-    "invoice_date": "2018-12-22",
-    "country": "GB",
-    "amount": 320.21,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00128",
-    "invoice_date": "2018-12-22",
-    "country": "DE",
-    "amount": 333.36,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00129",
-    "invoice_date": "2018-12-22",
-    "country": "FR",
-    "amount": 286.59,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00130",
-    "invoice_date": "2018-12-22",
-    "country": "AU",
-    "amount": 223.65,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00131",
-    "invoice_date": "2018-12-22",
-    "country": "CA",
-    "amount": 155.26,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00132",
-    "invoice_date": "2018-12-23",
-    "country": "US",
-    "amount": 648.49,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00133",
-    "invoice_date": "2018-12-23",
-    "country": "GB",
-    "amount": 359.84,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00134",
-    "invoice_date": "2018-12-23",
-    "country": "DE",
-    "amount": 321.47,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00135",
-    "invoice_date": "2018-12-23",
-    "country": "FR",
-    "amount": 255.98,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00136",
-    "invoice_date": "2018-12-23",
-    "country": "AU",
-    "amount": 218.53,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00137",
-    "invoice_date": "2018-12-23",
-    "country": "CA",
-    "amount": 179.34,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00138",
-    "invoice_date": "2018-12-24",
-    "country": "US",
-    "amount": 708.4,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00139",
-    "invoice_date": "2018-12-24",
-    "country": "GB",
-    "amount": 387.79,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00140",
-    "invoice_date": "2018-12-24",
-    "country": "DE",
-    "amount": 312.99,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00141",
-    "invoice_date": "2018-12-24",
-    "country": "FR",
-    "amount": 192.15,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00142",
-    "invoice_date": "2018-12-24",
-    "country": "AU",
-    "amount": 236.74,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00143",
-    "invoice_date": "2018-12-24",
-    "country": "CA",
-    "amount": 171.04,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00144",
-    "invoice_date": "2018-12-25",
-    "country": "US",
-    "amount": 551.52,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00145",
-    "invoice_date": "2018-12-25",
-    "country": "GB",
-    "amount": 319.2,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00146",
-    "invoice_date": "2018-12-25",
-    "country": "DE",
-    "amount": 330.28,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00147",
-    "invoice_date": "2018-12-25",
-    "country": "FR",
-    "amount": 194.57,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00148",
-    "invoice_date": "2018-12-25",
-    "country": "AU",
-    "amount": 256.49,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00149",
-    "invoice_date": "2018-12-25",
-    "country": "CA",
-    "amount": 145.22,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00150",
-    "invoice_date": "2018-12-26",
-    "country": "US",
-    "amount": 704.69,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00151",
-    "invoice_date": "2018-12-26",
-    "country": "GB",
-    "amount": 328.88,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00152",
-    "invoice_date": "2018-12-26",
-    "country": "DE",
-    "amount": 323.89,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00153",
-    "invoice_date": "2018-12-26",
-    "country": "FR",
-    "amount": 238.83,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00154",
-    "invoice_date": "2018-12-26",
-    "country": "AU",
-    "amount": 216.43,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00155",
-    "invoice_date": "2018-12-26",
-    "country": "CA",
-    "amount": 178.1,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00156",
-    "invoice_date": "2018-12-27",
-    "country": "US",
-    "amount": 655.28,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00157",
-    "invoice_date": "2018-12-27",
-    "country": "GB",
-    "amount": 245.47,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00158",
-    "invoice_date": "2018-12-27",
-    "country": "DE",
-    "amount": 278.65,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00159",
-    "invoice_date": "2018-12-27",
-    "country": "FR",
-    "amount": 206.12,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00160",
-    "invoice_date": "2018-12-27",
-    "country": "AU",
-    "amount": 228.85,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00161",
-    "invoice_date": "2018-12-27",
-    "country": "CA",
-    "amount": 157.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00162",
-    "invoice_date": "2018-12-28",
-    "country": "US",
-    "amount": 626.64,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00163",
-    "invoice_date": "2018-12-28",
-    "country": "GB",
-    "amount": 303.83,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00164",
-    "invoice_date": "2018-12-28",
-    "country": "DE",
-    "amount": 274.87,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00165",
-    "invoice_date": "2018-12-28",
-    "country": "FR",
-    "amount": 210.44,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00166",
-    "invoice_date": "2018-12-28",
-    "country": "AU",
-    "amount": 188.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00167",
-    "invoice_date": "2018-12-28",
-    "country": "CA",
-    "amount": 186.56,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00168",
-    "invoice_date": "2018-12-29",
-    "country": "US",
-    "amount": 629.0,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00169",
-    "invoice_date": "2018-12-29",
-    "country": "GB",
-    "amount": 260.97,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00170",
-    "invoice_date": "2018-12-29",
-    "country": "DE",
-    "amount": 334.81,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00171",
-    "invoice_date": "2018-12-29",
-    "country": "FR",
-    "amount": 222.17,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00172",
-    "invoice_date": "2018-12-29",
-    "country": "AU",
-    "amount": 264.76,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00173",
-    "invoice_date": "2018-12-29",
-    "country": "CA",
-    "amount": 170.46,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00174",
-    "invoice_date": "2018-12-30",
-    "country": "US",
-    "amount": 566.65,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00175",
-    "invoice_date": "2018-12-30",
-    "country": "GB",
-    "amount": 316.5,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00176",
-    "invoice_date": "2018-12-30",
-    "country": "DE",
-    "amount": 347.82,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00177",
-    "invoice_date": "2018-12-30",
-    "country": "FR",
-    "amount": 240.49,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00178",
-    "invoice_date": "2018-12-30",
-    "country": "AU",
-    "amount": 175.5,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00179",
-    "invoice_date": "2018-12-30",
-    "country": "CA",
-    "amount": 165.78,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00180",
-    "invoice_date": "2018-12-31",
-    "country": "US",
-    "amount": 709.18,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00181",
-    "invoice_date": "2018-12-31",
-    "country": "GB",
-    "amount": 348.53,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00182",
-    "invoice_date": "2018-12-31",
-    "country": "DE",
-    "amount": 354.61,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00183",
-    "invoice_date": "2018-12-31",
-    "country": "FR",
-    "amount": 249.16,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00184",
-    "invoice_date": "2018-12-31",
-    "country": "AU",
-    "amount": 237.38,
-    "currency": "USD"
-  },
-  {
-    "invoice_id": "201812-00185",
-    "invoice_date": "2018-12-31",
-    "country": "CA",
-    "amount": 182.78,
-    "currency": "USD"
+    "country": "United States",
+    "customer_id": 16798.0,
+    "invoice": "491804",
+    "price": 592.82,
+    "stream_id": "13153",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 16258.0,
+    "invoice": "491805",
+    "price": 303.58,
+    "stream_id": "43708",
+    "times_viewed": 3,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 11627.0,
+    "invoice": "491806",
+    "price": 334.89,
+    "stream_id": "81012",
+    "times_viewed": 6,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "France",
+    "customer_id": 12992.0,
+    "invoice": "491807",
+    "price": 190.04,
+    "stream_id": "43496",
+    "times_viewed": 25,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "Australia",
+    "customer_id": null,
+    "invoice": "491808",
+    "price": 163.96,
+    "stream_id": "50212",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 10965.0,
+    "invoice": "491809",
+    "price": 155.54,
+    "stream_id": "90540",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "01"
+  },
+  {
+    "country": "United States",
+    "customer_id": 10958.0,
+    "invoice": "491810",
+    "price": 666.64,
+    "stream_id": "49062",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": null,
+    "invoice": "491811",
+    "price": 336.56,
+    "stream_id": "28672",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 14225.0,
+    "invoice": "491812",
+    "price": 314.49,
+    "stream_id": "59219",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "France",
+    "customer_id": 10849.0,
+    "invoice": "491813",
+    "price": 232.72,
+    "stream_id": "36549",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 19601.0,
+    "invoice": "491814",
+    "price": 210.54,
+    "stream_id": "40997",
+    "times_viewed": 16,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 18264.0,
+    "invoice": "491815",
+    "price": 163.37,
+    "stream_id": "60469",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "02"
+  },
+  {
+    "country": "United States",
+    "customer_id": 15215.0,
+    "invoice": "491816",
+    "price": 503.04,
+    "stream_id": "70925",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 17932.0,
+    "invoice": "491817",
+    "price": 384.75,
+    "stream_id": "13788",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 10305.0,
+    "invoice": "491818",
+    "price": 312.2,
+    "stream_id": "45279",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "France",
+    "customer_id": 11663.0,
+    "invoice": "491819",
+    "price": 250.68,
+    "stream_id": "42285",
+    "times_viewed": 25,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12057.0,
+    "invoice": "491820",
+    "price": 198.04,
+    "stream_id": "49926",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 11374.0,
+    "invoice": "491821",
+    "price": 203.25,
+    "stream_id": "93335",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "03"
+  },
+  {
+    "country": "United States",
+    "customer_id": 12332.0,
+    "invoice": "491822",
+    "price": 638.23,
+    "stream_id": "58929",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 14016.0,
+    "invoice": "491823",
+    "price": 310.95,
+    "stream_id": "80455",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 19095.0,
+    "invoice": "491824",
+    "price": 301.14,
+    "stream_id": "69210",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "France",
+    "customer_id": null,
+    "invoice": "491825",
+    "price": 235.95,
+    "stream_id": "70902",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12742.0,
+    "invoice": "491826",
+    "price": 218.77,
+    "stream_id": "10071",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17900.0,
+    "invoice": "491827",
+    "price": 198.65,
+    "stream_id": "45822",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "04"
+  },
+  {
+    "country": "United States",
+    "customer_id": 16228.0,
+    "invoice": "491828",
+    "price": 626.22,
+    "stream_id": "56061",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 19587.0,
+    "invoice": "491829",
+    "price": 336.69,
+    "stream_id": "76889",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "Germany",
+    "customer_id": null,
+    "invoice": "491830",
+    "price": 256.66,
+    "stream_id": "80004",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "France",
+    "customer_id": null,
+    "invoice": "491831",
+    "price": 218.47,
+    "stream_id": "21759",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12288.0,
+    "invoice": "491832",
+    "price": 146.63,
+    "stream_id": "82938",
+    "times_viewed": 9,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 13454.0,
+    "invoice": "491833",
+    "price": 151.1,
+    "stream_id": "90012",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "05"
+  },
+  {
+    "country": "United States",
+    "customer_id": 15215.0,
+    "invoice": "491834",
+    "price": 559.95,
+    "stream_id": "99404",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 17417.0,
+    "invoice": "491835",
+    "price": 327.37,
+    "stream_id": "45784",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 15269.0,
+    "invoice": "491836",
+    "price": 282.71,
+    "stream_id": "54778",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "France",
+    "customer_id": 19822.0,
+    "invoice": "491837",
+    "price": 211.5,
+    "stream_id": "53051",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12190.0,
+    "invoice": "491838",
+    "price": 172.76,
+    "stream_id": "94730",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "Canada",
+    "customer_id": null,
+    "invoice": "491839",
+    "price": 126.24,
+    "stream_id": "72459",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "06"
+  },
+  {
+    "country": "United States",
+    "customer_id": 12843.0,
+    "invoice": "491840",
+    "price": 684.25,
+    "stream_id": "64154",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 18011.0,
+    "invoice": "491841",
+    "price": 320.52,
+    "stream_id": "61483",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "Germany",
+    "customer_id": null,
+    "invoice": "491842",
+    "price": 266.36,
+    "stream_id": "95078",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "France",
+    "customer_id": null,
+    "invoice": "491843",
+    "price": 211.83,
+    "stream_id": "14056",
+    "times_viewed": 29,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 17293.0,
+    "invoice": "491844",
+    "price": 187.16,
+    "stream_id": "98112",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 16166.0,
+    "invoice": "491845",
+    "price": 167.31,
+    "stream_id": "88815",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "07"
+  },
+  {
+    "country": "United States",
+    "customer_id": 10138.0,
+    "invoice": "491846",
+    "price": 590.15,
+    "stream_id": "26353",
+    "times_viewed": 15,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 13161.0,
+    "invoice": "491847",
+    "price": 300.99,
+    "stream_id": "68271",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 10324.0,
+    "invoice": "491848",
+    "price": 294.79,
+    "stream_id": "46848",
+    "times_viewed": 22,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "France",
+    "customer_id": 15862.0,
+    "invoice": "491849",
+    "price": 215.37,
+    "stream_id": "35101",
+    "times_viewed": 3,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 14967.0,
+    "invoice": "491850",
+    "price": 179.82,
+    "stream_id": "38986",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 15947.0,
+    "invoice": "491851",
+    "price": 171.79,
+    "stream_id": "14822",
+    "times_viewed": 9,
+    "year": "2018",
+    "month": "12",
+    "day": "08"
+  },
+  {
+    "country": "United States",
+    "customer_id": 19929.0,
+    "invoice": "491852",
+    "price": 652.19,
+    "stream_id": "37405",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 16489.0,
+    "invoice": "491853",
+    "price": 383.68,
+    "stream_id": "24541",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 18197.0,
+    "invoice": "491854",
+    "price": 312.47,
+    "stream_id": "74751",
+    "times_viewed": 6,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "France",
+    "customer_id": 19268.0,
+    "invoice": "491855",
+    "price": 218.25,
+    "stream_id": "98103",
+    "times_viewed": 22,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12875.0,
+    "invoice": "491856",
+    "price": 250.61,
+    "stream_id": "18566",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 11065.0,
+    "invoice": "491857",
+    "price": 175.06,
+    "stream_id": "26702",
+    "times_viewed": 9,
+    "year": "2018",
+    "month": "12",
+    "day": "09"
+  },
+  {
+    "country": "United States",
+    "customer_id": 13734.0,
+    "invoice": "491858",
+    "price": 756.58,
+    "stream_id": "78561",
+    "times_viewed": 24,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 13143.0,
+    "invoice": "491859",
+    "price": 403.91,
+    "stream_id": "98864",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 18731.0,
+    "invoice": "491860",
+    "price": 284.97,
+    "stream_id": "90538",
+    "times_viewed": 9,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "France",
+    "customer_id": 17437.0,
+    "invoice": "491861",
+    "price": 261.0,
+    "stream_id": "10256",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 10849.0,
+    "invoice": "491862",
+    "price": 199.57,
+    "stream_id": "52336",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 16666.0,
+    "invoice": "491863",
+    "price": 159.19,
+    "stream_id": "45918",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "10"
+  },
+  {
+    "country": "United States",
+    "customer_id": 17644.0,
+    "invoice": "491864",
+    "price": 660.98,
+    "stream_id": "74955",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 10712.0,
+    "invoice": "491865",
+    "price": 340.4,
+    "stream_id": "39431",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 16882.0,
+    "invoice": "491866",
+    "price": 369.75,
+    "stream_id": "79784",
+    "times_viewed": 15,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "France",
+    "customer_id": 16420.0,
+    "invoice": "491867",
+    "price": 251.1,
+    "stream_id": "35507",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "Australia",
+    "customer_id": null,
+    "invoice": "491868",
+    "price": 201.69,
+    "stream_id": "84949",
+    "times_viewed": 26,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "Canada",
+    "customer_id": null,
+    "invoice": "491869",
+    "price": 176.74,
+    "stream_id": "39573",
+    "times_viewed": 23,
+    "year": "2018",
+    "month": "12",
+    "day": "11"
+  },
+  {
+    "country": "United States",
+    "customer_id": 11219.0,
+    "invoice": "491870",
+    "price": 644.76,
+    "stream_id": "42765",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 15092.0,
+    "invoice": "491871",
+    "price": 301.5,
+    "stream_id": "18237",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 10456.0,
+    "invoice": "491872",
+    "price": 322.12,
+    "stream_id": "72910",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "France",
+    "customer_id": 19708.0,
+    "invoice": "491873",
+    "price": 224.63,
+    "stream_id": "92090",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 14102.0,
+    "invoice": "491874",
+    "price": 212.89,
+    "stream_id": "42394",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 15583.0,
+    "invoice": "491875",
+    "price": 182.25,
+    "stream_id": "17134",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "12"
+  },
+  {
+    "country": "United States",
+    "customer_id": 13878.0,
+    "invoice": "491876",
+    "price": 577.17,
+    "stream_id": "19556",
+    "times_viewed": 25,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 17184.0,
+    "invoice": "491877",
+    "price": 316.26,
+    "stream_id": "22539",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 12045.0,
+    "invoice": "491878",
+    "price": 270.01,
+    "stream_id": "21211",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "France",
+    "customer_id": 16183.0,
+    "invoice": "491879",
+    "price": 196.04,
+    "stream_id": "51062",
+    "times_viewed": 29,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 11065.0,
+    "invoice": "491880",
+    "price": 193.11,
+    "stream_id": "26716",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17240.0,
+    "invoice": "491881",
+    "price": 165.58,
+    "stream_id": "17181",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "13"
+  },
+  {
+    "country": "United States",
+    "customer_id": 17075.0,
+    "invoice": "491882",
+    "price": 602.02,
+    "stream_id": "18623",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 19162.0,
+    "invoice": "491883",
+    "price": 306.99,
+    "stream_id": "16842",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 16581.0,
+    "invoice": "491884",
+    "price": 262.53,
+    "stream_id": "22560",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "France",
+    "customer_id": 13819.0,
+    "invoice": "491885",
+    "price": 197.71,
+    "stream_id": "88587",
+    "times_viewed": 26,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 10173.0,
+    "invoice": "491886",
+    "price": 185.5,
+    "stream_id": "69429",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17014.0,
+    "invoice": "491887",
+    "price": 171.73,
+    "stream_id": "91292",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "14"
+  },
+  {
+    "country": "United States",
+    "customer_id": 10425.0,
+    "invoice": "491888",
+    "price": 670.55,
+    "stream_id": "69516",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 13153.0,
+    "invoice": "491889",
+    "price": 340.19,
+    "stream_id": "24156",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "Germany",
+    "customer_id": null,
+    "invoice": "491890",
+    "price": 306.24,
+    "stream_id": "18853",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "France",
+    "customer_id": 13172.0,
+    "invoice": "491891",
+    "price": 231.27,
+    "stream_id": "85132",
+    "times_viewed": 5,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 14198.0,
+    "invoice": "491892",
+    "price": 220.24,
+    "stream_id": "56581",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17284.0,
+    "invoice": "491893",
+    "price": 151.72,
+    "stream_id": "34369",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "15"
+  },
+  {
+    "country": "United States",
+    "customer_id": 10722.0,
+    "invoice": "491894",
+    "price": 702.91,
+    "stream_id": "17928",
+    "times_viewed": 5,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 17140.0,
+    "invoice": "491895",
+    "price": 292.65,
+    "stream_id": "77256",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 15098.0,
+    "invoice": "491896",
+    "price": 367.33,
+    "stream_id": "86502",
+    "times_viewed": 29,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "France",
+    "customer_id": 12385.0,
+    "invoice": "491897",
+    "price": 231.92,
+    "stream_id": "29321",
+    "times_viewed": 16,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 15618.0,
+    "invoice": "491898",
+    "price": 198.01,
+    "stream_id": "48150",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 18481.0,
+    "invoice": "491899",
+    "price": 193.06,
+    "stream_id": "86865",
+    "times_viewed": 22,
+    "year": "2018",
+    "month": "12",
+    "day": "16"
+  },
+  {
+    "country": "United States",
+    "customer_id": 10939.0,
+    "invoice": "491900",
+    "price": 753.12,
+    "stream_id": "41114",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 19166.0,
+    "invoice": "491901",
+    "price": 339.88,
+    "stream_id": "17157",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 13282.0,
+    "invoice": "491902",
+    "price": 306.47,
+    "stream_id": "93958",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "France",
+    "customer_id": 11120.0,
+    "invoice": "491903",
+    "price": 251.27,
+    "stream_id": "54767",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 17657.0,
+    "invoice": "491904",
+    "price": 214.82,
+    "stream_id": "88612",
+    "times_viewed": 23,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 19476.0,
+    "invoice": "491905",
+    "price": 192.66,
+    "stream_id": "84199",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "17"
+  },
+  {
+    "country": "United States",
+    "customer_id": 16859.0,
+    "invoice": "491906",
+    "price": 672.67,
+    "stream_id": "53072",
+    "times_viewed": 6,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 10691.0,
+    "invoice": "491907",
+    "price": 341.82,
+    "stream_id": "75002",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 13654.0,
+    "invoice": "491908",
+    "price": 353.17,
+    "stream_id": "40182",
+    "times_viewed": 15,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "France",
+    "customer_id": 13916.0,
+    "invoice": "491909",
+    "price": 234.41,
+    "stream_id": "73012",
+    "times_viewed": 24,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 15431.0,
+    "invoice": "491910",
+    "price": 225.33,
+    "stream_id": "59271",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 10110.0,
+    "invoice": "491911",
+    "price": 107.29,
+    "stream_id": "57555",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "18"
+  },
+  {
+    "country": "United States",
+    "customer_id": null,
+    "invoice": "491912",
+    "price": 705.72,
+    "stream_id": "13934",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 14760.0,
+    "invoice": "491913",
+    "price": 362.86,
+    "stream_id": "67725",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 15896.0,
+    "invoice": "491914",
+    "price": 291.32,
+    "stream_id": "15754",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "France",
+    "customer_id": 14654.0,
+    "invoice": "491915",
+    "price": 263.52,
+    "stream_id": "32825",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12855.0,
+    "invoice": "491916",
+    "price": 210.19,
+    "stream_id": "54540",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 12925.0,
+    "invoice": "491917",
+    "price": 164.24,
+    "stream_id": "35688",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "19"
+  },
+  {
+    "country": "United States",
+    "customer_id": 14289.0,
+    "invoice": "491918",
+    "price": 623.68,
+    "stream_id": "23263",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 12248.0,
+    "invoice": "491919",
+    "price": 378.92,
+    "stream_id": "59666",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 11818.0,
+    "invoice": "491920",
+    "price": 290.8,
+    "stream_id": "54352",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "France",
+    "customer_id": 17474.0,
+    "invoice": "491921",
+    "price": 193.27,
+    "stream_id": "41476",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12807.0,
+    "invoice": "491922",
+    "price": 214.57,
+    "stream_id": "79065",
+    "times_viewed": 26,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17106.0,
+    "invoice": "491923",
+    "price": 133.16,
+    "stream_id": "18569",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "20"
+  },
+  {
+    "country": "United States",
+    "customer_id": 12142.0,
+    "invoice": "491924",
+    "price": 511.97,
+    "stream_id": "34856",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 16131.0,
+    "invoice": "491925",
+    "price": 287.63,
+    "stream_id": "51674",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 14006.0,
+    "invoice": "491926",
+    "price": 263.59,
+    "stream_id": "16054",
+    "times_viewed": 25,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "France",
+    "customer_id": 13098.0,
+    "invoice": "491927",
+    "price": 168.3,
+    "stream_id": "80184",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 15368.0,
+    "invoice": "491928",
+    "price": 225.03,
+    "stream_id": "42397",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 14588.0,
+    "invoice": "491929",
+    "price": 164.07,
+    "stream_id": "26575",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "21"
+  },
+  {
+    "country": "United States",
+    "customer_id": 19569.0,
+    "invoice": "491930",
+    "price": 561.23,
+    "stream_id": "74092",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 17711.0,
+    "invoice": "491931",
+    "price": 320.21,
+    "stream_id": "96966",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "Germany",
+    "customer_id": null,
+    "invoice": "491932",
+    "price": 333.36,
+    "stream_id": "76665",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "France",
+    "customer_id": 18342.0,
+    "invoice": "491933",
+    "price": 286.59,
+    "stream_id": "59055",
+    "times_viewed": 16,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12932.0,
+    "invoice": "491934",
+    "price": 223.65,
+    "stream_id": "52182",
+    "times_viewed": 23,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 17918.0,
+    "invoice": "491935",
+    "price": 155.26,
+    "stream_id": "74853",
+    "times_viewed": 16,
+    "year": "2018",
+    "month": "12",
+    "day": "22"
+  },
+  {
+    "country": "United States",
+    "customer_id": 16569.0,
+    "invoice": "491936",
+    "price": 648.49,
+    "stream_id": "93637",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 10599.0,
+    "invoice": "491937",
+    "price": 359.84,
+    "stream_id": "37158",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 17406.0,
+    "invoice": "491938",
+    "price": 321.47,
+    "stream_id": "40721",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "France",
+    "customer_id": 16963.0,
+    "invoice": "491939",
+    "price": 255.98,
+    "stream_id": "59425",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 16129.0,
+    "invoice": "491940",
+    "price": 218.53,
+    "stream_id": "43361",
+    "times_viewed": 18,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "Canada",
+    "customer_id": null,
+    "invoice": "491941",
+    "price": 179.34,
+    "stream_id": "21013",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "23"
+  },
+  {
+    "country": "United States",
+    "customer_id": 15760.0,
+    "invoice": "491942",
+    "price": 708.4,
+    "stream_id": "40169",
+    "times_viewed": 19,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": null,
+    "invoice": "491943",
+    "price": 387.79,
+    "stream_id": "77143",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 17391.0,
+    "invoice": "491944",
+    "price": 312.99,
+    "stream_id": "71282",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "France",
+    "customer_id": 18151.0,
+    "invoice": "491945",
+    "price": 192.15,
+    "stream_id": "51552",
+    "times_viewed": 9,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12942.0,
+    "invoice": "491946",
+    "price": 236.74,
+    "stream_id": "67892",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 11243.0,
+    "invoice": "491947",
+    "price": 171.04,
+    "stream_id": "57067",
+    "times_viewed": 29,
+    "year": "2018",
+    "month": "12",
+    "day": "24"
+  },
+  {
+    "country": "United States",
+    "customer_id": null,
+    "invoice": "491948",
+    "price": 551.52,
+    "stream_id": "75767",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 11280.0,
+    "invoice": "491949",
+    "price": 319.2,
+    "stream_id": "46231",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 11942.0,
+    "invoice": "491950",
+    "price": 330.28,
+    "stream_id": "19351",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "France",
+    "customer_id": null,
+    "invoice": "491951",
+    "price": 194.57,
+    "stream_id": "36254",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 15394.0,
+    "invoice": "491952",
+    "price": 256.49,
+    "stream_id": "42771",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 14496.0,
+    "invoice": "491953",
+    "price": 145.22,
+    "stream_id": "34987",
+    "times_viewed": 23,
+    "year": "2018",
+    "month": "12",
+    "day": "25"
+  },
+  {
+    "country": "United States",
+    "customer_id": 12258.0,
+    "invoice": "491954",
+    "price": 704.69,
+    "stream_id": "81188",
+    "times_viewed": 30,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 14906.0,
+    "invoice": "491955",
+    "price": 328.88,
+    "stream_id": "46942",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 16616.0,
+    "invoice": "491956",
+    "price": 323.89,
+    "stream_id": "63183",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "France",
+    "customer_id": 10194.0,
+    "invoice": "491957",
+    "price": 238.83,
+    "stream_id": "71866",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12445.0,
+    "invoice": "491958",
+    "price": 216.43,
+    "stream_id": "62101",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 13438.0,
+    "invoice": "491959",
+    "price": 178.1,
+    "stream_id": "72185",
+    "times_viewed": 8,
+    "year": "2018",
+    "month": "12",
+    "day": "26"
+  },
+  {
+    "country": "United States",
+    "customer_id": 19054.0,
+    "invoice": "491960",
+    "price": 655.28,
+    "stream_id": "71438",
+    "times_viewed": 24,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 15581.0,
+    "invoice": "491961",
+    "price": 245.47,
+    "stream_id": "21255",
+    "times_viewed": 11,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 17025.0,
+    "invoice": "491962",
+    "price": 278.65,
+    "stream_id": "64747",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "France",
+    "customer_id": 19149.0,
+    "invoice": "491963",
+    "price": 206.12,
+    "stream_id": "13945",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 12102.0,
+    "invoice": "491964",
+    "price": 228.85,
+    "stream_id": "50051",
+    "times_viewed": 24,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "Canada",
+    "customer_id": null,
+    "invoice": "491965",
+    "price": 157.82,
+    "stream_id": "96356",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "27"
+  },
+  {
+    "country": "United States",
+    "customer_id": 13694.0,
+    "invoice": "491966",
+    "price": 626.64,
+    "stream_id": "64938",
+    "times_viewed": 14,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 16608.0,
+    "invoice": "491967",
+    "price": 303.83,
+    "stream_id": "80464",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 10380.0,
+    "invoice": "491968",
+    "price": 274.87,
+    "stream_id": "84393",
+    "times_viewed": 26,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "France",
+    "customer_id": null,
+    "invoice": "491969",
+    "price": 210.44,
+    "stream_id": "28236",
+    "times_viewed": 5,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 15410.0,
+    "invoice": "491970",
+    "price": 188.82,
+    "stream_id": "84473",
+    "times_viewed": 21,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 19958.0,
+    "invoice": "491971",
+    "price": 186.56,
+    "stream_id": "85219",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "28"
+  },
+  {
+    "country": "United States",
+    "customer_id": 16247.0,
+    "invoice": "491972",
+    "price": 629.0,
+    "stream_id": "36765",
+    "times_viewed": 13,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": null,
+    "invoice": "491973",
+    "price": 260.97,
+    "stream_id": "60650",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 15387.0,
+    "invoice": "491974",
+    "price": 334.81,
+    "stream_id": "84647",
+    "times_viewed": 15,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "France",
+    "customer_id": 14991.0,
+    "invoice": "491975",
+    "price": 222.17,
+    "stream_id": "22221",
+    "times_viewed": 6,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 19058.0,
+    "invoice": "491976",
+    "price": 264.76,
+    "stream_id": "33283",
+    "times_viewed": 2,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 19885.0,
+    "invoice": "491977",
+    "price": 170.46,
+    "stream_id": "74043",
+    "times_viewed": 1,
+    "year": "2018",
+    "month": "12",
+    "day": "29"
+  },
+  {
+    "country": "United States",
+    "customer_id": 11138.0,
+    "invoice": "491978",
+    "price": 566.65,
+    "stream_id": "60579",
+    "times_viewed": 10,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 14769.0,
+    "invoice": "491979",
+    "price": 316.5,
+    "stream_id": "96451",
+    "times_viewed": 17,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "Germany",
+    "customer_id": null,
+    "invoice": "491980",
+    "price": 347.82,
+    "stream_id": "17530",
+    "times_viewed": 12,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "France",
+    "customer_id": 12815.0,
+    "invoice": "491981",
+    "price": 240.49,
+    "stream_id": "52830",
+    "times_viewed": 28,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 16407.0,
+    "invoice": "491982",
+    "price": 175.5,
+    "stream_id": "30582",
+    "times_viewed": 4,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "Canada",
+    "customer_id": 16855.0,
+    "invoice": "491983",
+    "price": 165.78,
+    "stream_id": "72685",
+    "times_viewed": 24,
+    "year": "2018",
+    "month": "12",
+    "day": "30"
+  },
+  {
+    "country": "United States",
+    "customer_id": null,
+    "invoice": "491984",
+    "price": 709.18,
+    "stream_id": "37063",
+    "times_viewed": 5,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
+  },
+  {
+    "country": "United Kingdom",
+    "customer_id": 15075.0,
+    "invoice": "491985",
+    "price": 348.53,
+    "stream_id": "66649",
+    "times_viewed": 27,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
+  },
+  {
+    "country": "Germany",
+    "customer_id": 17778.0,
+    "invoice": "491986",
+    "price": 354.61,
+    "stream_id": "30811",
+    "times_viewed": 20,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
+  },
+  {
+    "country": "France",
+    "customer_id": 15084.0,
+    "invoice": "491987",
+    "price": 249.16,
+    "stream_id": "87003",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
+  },
+  {
+    "country": "Australia",
+    "customer_id": 17519.0,
+    "invoice": "491988",
+    "price": 237.38,
+    "stream_id": "46102",
+    "times_viewed": 7,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
+  },
+  {
+    "country": "Canada",
+    "customer_id": null,
+    "invoice": "491989",
+    "price": 182.78,
+    "stream_id": "28702",
+    "times_viewed": 15,
+    "year": "2018",
+    "month": "12",
+    "day": "31"
   }
 ]
