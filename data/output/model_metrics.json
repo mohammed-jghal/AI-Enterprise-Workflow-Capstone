@@ -1,0 +1,249 @@
+{
+  "total": [
+    {
+      "model": "BASELINE",
+      "train_start": "2017-11-01",
+      "train_end": "2019-12-01",
+      "test_start": "2019-12-02",
+      "test_end": "2019-12-31",
+      "rmse": 205.44835240580196,
+      "mae": 158.50342857142877,
+      "mape": 7.594830488475847,
+      "improvement_vs_baseline_pct": 0.0
+    },
+    {
+      "model": "ARIMA",
+      "train_start": "2017-11-01",
+      "train_end": "2019-12-01",
+      "test_start": "2019-12-02",
+      "test_end": "2019-12-31",
+      "rmse": 192.07953186768444,
+      "mae": 151.10810796588848,
+      "mape": 7.27409083873169,
+      "improvement_vs_baseline_pct": 6.507144195399241
+    },
+    {
+      "model": "SARIMA",
+      "train_start": "2017-11-01",
+      "train_end": "2019-12-01",
+      "test_start": "2019-12-02",
+      "test_end": "2019-12-31",
+      "rmse": 152.31262657215518,
+      "mae": 128.59780042405941,
+      "mape": 6.354916374816745,
+      "improvement_vs_baseline_pct": 25.86330102501528
+    }
+  ],
+  "by_country": {
+    "AU": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 26.665840133024137,
+        "mae": 21.119666666666685,
+        "mape": 9.428296078584898,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 28.673376589089518,
+        "mae": 23.167703587237206,
+        "mape": 10.297652143260363,
+        "improvement_vs_baseline_pct": -7.528495056036732
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 26.182228433654977,
+        "mae": 21.401986595429666,
+        "mape": 9.704936322600956,
+        "improvement_vs_baseline_pct": 1.8136000851900178
+      }
+    ],
+    "CA": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 20.651711324058457,
+        "mae": 16.699761904761896,
+        "mape": 9.144245118801129,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 20.496336099153645,
+        "mae": 16.61165141394647,
+        "mape": 9.102198157172504,
+        "improvement_vs_baseline_pct": 0.7523600464229139
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 18.008626839694514,
+        "mae": 15.68252859825615,
+        "mape": 8.770239527145506,
+        "improvement_vs_baseline_pct": 12.79837996420592
+      }
+    ],
+    "DE": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 45.457110462111714,
+        "mae": 37.90695238095238,
+        "mape": 11.42129089544303,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 45.221225388500265,
+        "mae": 37.70334101189273,
+        "mape": 11.376640756028502,
+        "improvement_vs_baseline_pct": 0.5189178793228799
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 42.61063064323553,
+        "mae": 36.61964001949591,
+        "mape": 11.214276580636154,
+        "improvement_vs_baseline_pct": 6.261902241341782
+      }
+    ],
+    "FR": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 26.931208398107817,
+        "mae": 23.406047619047616,
+        "mape": 9.984958067374814,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 31.36026529191511,
+        "mae": 27.16257681899689,
+        "mape": 11.180043306585437,
+        "improvement_vs_baseline_pct": -16.445815680957253
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 25.103991720823483,
+        "mae": 20.527204150525165,
+        "mape": 8.407329603475434,
+        "improvement_vs_baseline_pct": 6.784755627277065
+      }
+    ],
+    "GB": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 50.90415255905067,
+        "mae": 42.56485714285715,
+        "mape": 11.094189223458631,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 51.7173919736358,
+        "mae": 43.04765500772235,
+        "mape": 11.187989268535436,
+        "improvement_vs_baseline_pct": -1.5975895358276304
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 40.73843771081916,
+        "mae": 33.22737427589945,
+        "mape": 8.702752503321834,
+        "improvement_vs_baseline_pct": 19.970305637519274
+      }
+    ],
+    "US": [
+      {
+        "model": "BASELINE",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 100.26705303006233,
+        "mae": 79.9583333333333,
+        "mape": 11.348777371758125,
+        "improvement_vs_baseline_pct": 0.0
+      },
+      {
+        "model": "ARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 101.49011589058247,
+        "mae": 81.95101434801246,
+        "mape": 11.65006190707627,
+        "improvement_vs_baseline_pct": -1.219805333416394
+      },
+      {
+        "model": "SARIMA",
+        "train_start": "2017-11-01",
+        "train_end": "2019-12-01",
+        "test_start": "2019-12-02",
+        "test_end": "2019-12-31",
+        "rmse": 88.77073464364938,
+        "mae": 75.37596877278752,
+        "mape": 10.858595535481937,
+        "improvement_vs_baseline_pct": 11.465698890109092
+      }
+    ]
+  }
+}
