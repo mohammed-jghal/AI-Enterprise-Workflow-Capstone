@@ -67,3 +67,46 @@ def test_normalize_record_maps_full_country_names():
     assert rec["country"] == "GB"
     assert rec["invoice_date"] == "2017-11-28"
     assert rec["amount"] == 5.0
+
+
+def test_shipped_data_is_real_coursera_schema(tmp_path):
+    """End-to-end guard for the shipped sample: the files in data/input
+    must be in the real Coursera schema (not the legacy synthetic one),
+    with the same row counts the pipeline was measured on."""
+    repo_root = Path(__file__).parents[1]
+    out = tmp_path / "output"
+    result = ingest(str(repo_root / "data" / "input"), str(out))
+    assert result["schema"] == "coursera"
+    assert result["files_read"] == 26
+    assert result["raw_rows"] == 4754
+    assert result["clean_rows"] == 4746
+    assert result["rows_dropped"] == 8
+    total = pd.read_csv(out / "4 revenue_total.csv")
+    assert len(total) == 791  # 2017-11-01 .. 2019-12-31, daily
+    assert list(total["invoice_date"])[0] == "2017-11-01"
+    assert list(total["invoice_date"])[-1] == "2019-12-31"
+    # The real-schema ingest must reproduce the committed revenue series.
+    committed = pd.read_csv(repo_root / "data" / "output" / "4 revenue_total.csv")
+    assert total["revenue"].tolist() == committed["revenue"].tolist()
+
+
+def test_detect_schema_majority_vote():
+    coursera = [{"country": "France", "price": 1.0, "year": 2018, "month": 1, "day": 2}]
+    synthetic = [{"invoice_date": "2018-01-02", "country": "FR", "amount": 1.0}]
+    assert detect_schema(coursera * 3 + synthetic) == "coursera"
+    assert detect_schema(synthetic * 3 + coursera) == "synthetic"
+    assert detect_schema([{"foo": 1}]) == "unknown"
+
+
+def test_real_schema_bad_rows_are_dropped_and_counted(tmp_path):
+    records = [
+        {"country": "France", "customer_id": 1.0, "invoice": "1", "price": 5.0,
+         "stream_id": "1", "times_viewed": 2, "year": "2018", "month": "1", "day": "2"},
+        {"country": None, "customer_id": None, "invoice": "bad-1", "price": None,
+         "stream_id": None, "times_viewed": None, "year": None, "month": None, "day": None},
+    ]
+    input_dir = _write_invoices(tmp_path, "invoices-2018-01.json", records)
+    result = ingest(str(input_dir), str(tmp_path / "output"))
+    assert result["raw_rows"] == 2
+    assert result["clean_rows"] == 1
+    assert result["rows_dropped"] == 1
